@@ -62,6 +62,36 @@ Learn pandas
 
 https://www.listendata.com/2017/12/python-pandas-tutorial.html
 
+matplotlib - visualization
+seaborn - visualization
+
+open terminal from pycharm
+alt - F12
+or
+view->Tool Windows->Terminal
+
+jupyter notebook
+
+https://colab.research.google.com/
+
+
+Linear Regression
+
+https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe
+
+
+Assignment 
+Predict price of a car as per dataset given
+
+
+
+
+
+
+
+
+
+
 
 
 
