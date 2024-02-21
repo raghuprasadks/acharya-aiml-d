@@ -1,0 +1,50 @@
+AI
+Supervised
+Un-supervised
+Reinforcement
+
+Python - 1 hour
+Data Analytics - Pandas,matplotlib
+Machine Learning - scikit-learn
+
+Assignments
+
+1. Online shopping
+purchase <=10000 discount = 10%
+purchase >10000 and <=20000 discount = 20%
+purchase >20000 discount = 25%
+
+1. Online shopping
+purchase <=10000 discount = 10%
+purchase >10000 and <=20000 discount = 20%
+purchase >20000 discount = 25%
+
+Write a function which would take purchase amount as the input
+and calculates discount amount and net amount to pay
+
+you can inform the user to enter the purchase amount
+
+Sample calculation:
+pur_amt = 10000
+discount_rate = 10%
+discount_amt = 10000*.1 = 1000
+net_amt = 10000-1000 = 9000
+
+2. create marks empty list to store marks
+scored in aiml - max marks - 25, min marks =0
+
+a. Add 10 students marks to the list using append
+b. Display all elements in the list using for loop
+c. Update mark of a student . Change from 15 to 16
+d. Display marks which are greater than 15
+
+
+
+
+
+
+
+
+
+
+
