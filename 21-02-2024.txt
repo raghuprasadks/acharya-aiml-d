@@ -86,6 +86,24 @@ Predict price of a car as per dataset given
 create carpricepredict.ipynb
 carpriceprediction.xlsx
 
+import pandas as pd
+import matplotlib.pyplot as plt
+from sklearn import  linear_model
+cardata = pd.read_excel('carpriceprediction.xlsx')
+!pip install openpyxl
+y=cardata.price
+x=cardata.drop("price",axis="columns")
+regmodel = linear_model.LinearRegression()
+regmodel.fit(x,y)
+regmodel.predict([[2022, 20000, 20]])
+
+kaggle
+https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regression-rfe/notebook
+https://www.kaggle.com/code/khanfashee/medical-image-classification-for-beginner
+
+
+
+
 
 
 
