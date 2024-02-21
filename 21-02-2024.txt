@@ -49,6 +49,22 @@ INDIA|4.1|5
 
 www.kaushalya.tech
 
+Data Analysis
+
+
+install
+pandas
+matplotlib
+scikit-learn
+jupyter
+
+Learn pandas
+
+https://www.listendata.com/2017/12/python-pandas-tutorial.html
+
+
+
+
 
 
 
