@@ -83,6 +83,10 @@ https://www.kaggle.com/code/goyalshalini93/car-price-prediction-linear-regressio
 Assignment 
 Predict price of a car as per dataset given
 
+create carpricepredict.ipynb
+carpriceprediction.xlsx
+
+
 
 
 
