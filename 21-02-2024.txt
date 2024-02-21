@@ -38,7 +38,14 @@ b. Display all elements in the list using for loop
 c. Update mark of a student . Change from 15 to 16
 d. Display marks which are greater than 15
 
+3. Create following dictionary
 
+country|GDP|Rank
+USA|27|1
+CHINA|19|2
+GERMANY|4.4|3
+JAPAN|4.2|4
+INDIA|4.1|5
 
 
 
